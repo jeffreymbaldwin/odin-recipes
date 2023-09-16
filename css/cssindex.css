@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: red;
+    background-color: yellow;
+    text-align: center;
+}
+h4{
+    background-color: black;
+    color: white;
+}
