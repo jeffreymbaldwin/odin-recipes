@@ -1,22 +1,21 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    background-color: rgb(128, 196, 128);
 }
 
-h1{
-    color: rgb(238, 107, 107);
-    background-color: rgb(241, 241, 151);
+h1 span {
+    color: rgb(255, 255, 255);
     text-align: center;
 }
-h4{
-    background-color: black;
+h4 span {
     color: white;
 }
 .stuffedpeppers{
-    background-color: red;
+    background-color: rgb(241, 241, 166);
 }
 .smores {
-    background-color: white;
+    background: tan;
 }
 .nikujaga {
     background-color: brown;

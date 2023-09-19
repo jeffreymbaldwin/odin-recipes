@@ -1,0 +1,14 @@
+.peppic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+body {
+    background-color: rgb(241, 241, 166);
+}
+
+h1,
+p {
+    text-align: center;
+}
